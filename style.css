@@ -1,0 +1,38 @@
+
+.body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.bi{
+    color: #FF150E;
+}
+
+.text1{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+.btn{
+    background-color: black;
+    color: white;
+    border: 3px solid black;
+    padding: 15px;
+    border-radius: 30px;
+    
+}
+
+.banner{
+    background-color: #F2F7FD;
+    color: black;
+}
+    
+.card{
+    border: 1px solid;
+    border-radius: 10px;
+}
+
