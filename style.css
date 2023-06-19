@@ -1,6 +1,6 @@
 
 .body{
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-family: 'Quicksand', sans-serif;
 }
 
@@ -43,5 +43,6 @@
 .card{
     border: 1px solid;
     border-radius: 10px;
+    
 }
 
